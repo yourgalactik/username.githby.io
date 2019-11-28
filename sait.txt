@@ -2,18 +2,18 @@
 <html>
  <head>
   <meta sharset"utf-8">
-  <title>Моя личная страничка</title>
+  <title>РњРѕСЏ Р»РёС‡РЅР°СЏ СЃС‚СЂР°РЅРёС‡РєР°</title>
  </head>
 <body>
- <left><h1>Карл Великий</h1></left>
- <left><img alt="Это я" width="15%" src="me.jpg"></left>
+ <left><h1>РљР°СЂР» Р’РµР»РёРєРёР№</h1></left>
+ <left><img alt="ГќЕ€Г® Л™" width="15%" src="me.jpg"></left>
  </br>
- <h2>Контакты</h2>
- Страичка <a href=https://vk.com/nefedworld></a>
+ <h2>РљРѕРЅС‚Р°РєС‚С‹</h2>
+ РЎС‚СЂР°РЅРёС‡РєР°<a href=https://vk.com/nefedworld></a>
  </br>
  <a href=https://github.com/yourgalactik>Github</a>
  </br>
- Телефон:<b>+88005553535</br>
+РўРµР»РµС„РѕРЅ:<b>+88005553535</br>
  </br>
  E-mail: <i>aaa@mail.com</i>
 </body>
